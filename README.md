@@ -1,1 +1,1 @@
-# lecture_data_visulization
+# Data processing and visualization with the assistance of ChatGPT
