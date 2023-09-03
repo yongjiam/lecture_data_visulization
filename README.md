@@ -4,9 +4,10 @@
 Popular LLM model tools such as **ChatGPT** are revolutionizing almost every industry and can improve work productivity
 ## Tools used in this presentation
 ```
->jupyter-lab
-> Python
-> ChatGPT
+> jupyter-lab: a web-based interactive computing platform, useful for demonstration
+> Python: the most popular general-purpose programming language
+> ChatGPT:
+https://chat.openai.com/
 ```
 # Data used 
 ## The copy number data of a gene controling root structure in 76 barley genomes
