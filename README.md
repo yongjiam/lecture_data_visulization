@@ -1,8 +1,8 @@
 # ChatGPT-assisted data processing and visualization (case study)
 # Background
 ```
-> **Data processing and visualization** are becoming increasely important in almost every jobs
-> Popular LLM model tools such as ChatGPT are revolutionizing almost every industry and can improve work productivity
+**Data processing and visualization** are becoming increasely important in almost every jobs
+Popular LLM model tools such as **ChatGPT** are revolutionizing almost every industry and can improve work productivity
 ```
 # Tools used
 > jupyter-lab
