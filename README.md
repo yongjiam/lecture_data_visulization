@@ -1,7 +1,7 @@
 # ChatGPT-assisted data processing and visualization (2 case-based demonstrations)
 ## Background
-**Data processing and visualization** are becoming increasely important and offer great job opportunities
-Popular LLM model tools such as **ChatGPT** can improve work productivity and are revolutionizing almost every industry 
+- **Data processing and visualization** are becoming increasely important and offer great job opportunities
+- Popular LLM model tools such as **ChatGPT** can improve work productivity and are revolutionizing almost every industry 
 ## Tools used in this presentation
 - jupyter-lab: a web-based interactive computing platform, useful for demonstration
 - Python: the most popular general-purpose programming language
