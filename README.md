@@ -1,10 +1,10 @@
 # ChatGPT-assisted data processing and visualization (case analyses)
 ## Background
 - **Data processing and visualization** are becoming increasely important and offer great job opportunities
-- **ChatGPT** can improve work productivity and are revolutionizing almost every industry
+- **ChatGPT** can improve work productivity and is revolutionizing almost every industry
 - **gene copy number variation** is prevalent in plant genome and can have important phenotype impact
 ## Tools used in this presentation
-- jupyter-lab: a web-based interactive computing platform, useful for demonstration
+- jupyter-lab: a web-based interactive computing platform, useful for tracking and demonstration
 - Python: the most popular general-purpose programming language
 - ChatGPT: 
 https://chat.openai.com/
