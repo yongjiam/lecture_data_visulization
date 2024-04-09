@@ -1,1 +1,1 @@
-## store output data
+## Output data
